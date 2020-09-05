@@ -2,9 +2,9 @@
 
 My config file for tmux.
 
-Shortened raw file url: https://git.io/JUGUH
+Shortened raw file url: https://git.io/JUGUd
 
 ## Install
 ```shell
-curl -L https://git.io/JUGUH > ~/.tmux.conf
+curl -L https://git.io/JUGUd > ~/.tmux.conf
 ```
